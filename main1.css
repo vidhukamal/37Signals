@@ -1,0 +1,63 @@
+
+
+
+
+
+li a{
+	display: inline;
+	color: blue;
+	float: right;
+	text-decoration: none;
+	padding: 10px 10px 10px 10px;
+}
+li{
+	text-align: left;
+	color: gray;
+}
+ul{
+	list-style-type: none;
+	
+}
+#image {
+	text-align:center;
+	
+}
+h3{
+	text-decoration: underline;
+}
+a.boxed{
+	border:1px solid gray;
+	padding: 40px;
+	margin:0 20px;
+	width: 140px;
+	height: 200px;
+	/*float:left;*/
+	display: inline;
+	border-radius: 10px;
+	background-color: #DDD;
+}
+a .boxed img{
+	text-align: center;
+	padding: 10px 10px ;
+	margin: 0;
+	
+}
+	div{
+	padding: 15px;
+}
+
+ 
+
+h4{
+	font-style: normal;
+	color: red;
+}
+body{
+	padding:-10px}
+	
+ #paragraph{
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	text-decoration: none;
+}	
+
+
