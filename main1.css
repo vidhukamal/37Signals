@@ -119,12 +119,14 @@ body{
 hr {
   clear: both;
   border: 0;
-  background: white url('/images/img-hr.png') no-repeat scroll 50% 50%;
+  background: white url('img-hr.png') no-repeat scroll 50% 50%;
   color: transparent;
   height: 12px;
+  padding-top: 5px;
+  margin: 40px 10px 20px 0;
 }
 h1{
-	font-size:50;
+	font-size:50px;
 }
 a .boxed p{
 	font-size: 10px;
